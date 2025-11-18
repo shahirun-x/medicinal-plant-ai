@@ -2,17 +2,17 @@
 
 This is a full-stack web application that uses a deep learning pipeline to identify medicinal plants from user-uploaded images. It provides a rich profile of the plant, including medicinal uses, an interactive location heatmap, and a crowdsourcing feature for users to contribute new sightings.
 
-[cite_start]This project fulfills all objectives outlined in the original research document [cite: 569][cite_start], including image segmentation [cite: 571][cite_start], classification [cite: 572][cite_start], and crowdsourced geotagging[cite: 573].
+This project fulfills all objectives outlined in the original research document, including image segmentation, classification [cite: 572][cite_start], and crowdsourced geotagging.
 
 ---
 
 ## Features
 
 * **AI-Powered Identification**: Upload a leaf image and the AI pipeline (U-Net + ResNet/Random Forest) will identify the species.
-* [cite_start]**Rich Data Profiles**: View detailed information, including local/English names, plant descriptions from Wikipedia, and medicinal uses[cite: 576].
+* **Rich Data Profiles**: View detailed information, including local/English names, plant descriptions from Wikipedia, and medicinal uses.
 * **Safety & Habitat Info**: See potential toxicity warnings, habitat type, and flowering season for known plants.
-* [cite_start]**Interactive Heatmap**: Displays a density map of all known sightings (from GBIF and user contributions) for an identified plant[cite: 579].
-* [cite_start]**Crowdsourcing Platform**: Users can contribute new sightings by uploading a photo, which is first verified by the AI and then added to the map with a user-placed pin[cite: 582].
+* **Interactive Heatmap**: Displays a density map of all known sightings (from GBIF and user contributions) for an identified plant.
+* **Crowdsourcing Platform**: Users can contribute new sightings by uploading a photo, which is first verified by the AI and then added to the map with a user-placed pin.
 
 ---
 
