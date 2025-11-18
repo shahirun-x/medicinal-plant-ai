@@ -2,7 +2,7 @@
 
 This is a full-stack web application that uses a deep learning pipeline to identify medicinal plants from user-uploaded images. It provides a rich profile of the plant, including medicinal uses, an interactive location heatmap, and a crowdsourcing feature for users to contribute new sightings.
 
-This project fulfills all objectives outlined in the original research document, including image segmentation, classification [cite: 572][cite_start], and crowdsourced geotagging.
+This project fulfills all objectives outlined in the original research document, including image segmentation, classification, and crowdsourced geotagging.
 
 ---
 
@@ -112,5 +112,3 @@ This server runs the React website.
         npm start
         ```
     * This will automatically open the application in your web browser at: `http://localhost:3000`
-
-The application is now fully online. You can use the "Identify Plant" and "Contribute Data" tabs.
