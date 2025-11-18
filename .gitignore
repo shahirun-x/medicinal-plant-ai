@@ -1,0 +1,17 @@
+# Ignore huge datasets
+data/
+aug_data/
+Plants_2/
+archive.zip
+
+# Ignore nodejs junk
+frontend/node_modules/
+
+# Ignore python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore user uploads
+uploads/*
+!uploads/.gitkeep
